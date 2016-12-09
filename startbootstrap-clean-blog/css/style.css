@@ -1,0 +1,6 @@
+/*Post message */
+.minMsg{
+    max-width: 600px;
+    height: 60px;
+    overflow: hidden;
+}
